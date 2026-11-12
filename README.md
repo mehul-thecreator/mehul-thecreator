@@ -111,6 +111,8 @@
 
 
 ## Other skills  
+  ROS2           
+  MATLAB
   
 
 <br/>  
